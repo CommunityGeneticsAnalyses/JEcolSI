@@ -1,0 +1,119 @@
+26 November 2013
+Dr. David Gibson Executive Editor, Journal of Ecology Southern Illinois University Carbondale, Illinois, USA
+Dear Dr. Gibson and Executive Editorial Board of the Journal of Ecology,
+We would like to propose a Special Issue of Journal of Ecology entitled “Eco- evolutionary feedbacks in plants”. Our proposal stems from a successful symposium held at INTECOL, in London in August 2013, entitled “Eco-evolutionary dynamics and the contemporary convergence of ecology and evolution”. The aims of the symposium were (i) to showcase the revolutionary research being conducted across ecological levels of organization on eco-evolutionary feedbacks, and (ii) to bring both animal and plant ecologists working on this topic together for the first time to present the latest discoveries on eco-evolutionary dynamics so as to suggest future directions in the field. The latter was a particularly important motivation because of the reliance in the eco-evo literature on model organisms, particularly those in the animal kingdom.
+In brief, eco-evolutionary dynamics is a vibrant, emerging field that aims at
+understanding and quantifying the feedbacks between ecological and evolutionary processes. It
+differs from evolutionary ecology in that the latter has traditionally been concerned with
+evolution as an end product or effect of ecological and environmental processes, and so the latter
+has generally not treated evolution as a causal agent in environmental and ecological change
+except over geological time scales. Recent studies have attempted to characterize how evolution
+in the wild impacts and is impacted by ecological processes at the population, community, and
+ecosystem scales, particularly via feedbacks among these processes.
+The field of eco-evolutionary dynamics is deeply rooted in the evolutionary and
+ecological literature. Biologists have long known that evolutionary and ecological processes
+influence each other (Darwin 1859, Fisher 1930, Lewontin 2002). However, while the broad
+acceptance of the influence of environment on evolutionary change goes back to Darwin’s times,
+the impact of evolutionary change on ecological processes has been far more controversial
+(Pelletier et al. 2009). Although empirical research suggesting that evolution may have important
+consequences on ecology go back approximately 50 years (Pimentel 1961, 1968), robust
+evidence of such strong influences and feedbacks between ecology and evolution is very recent.
+In many ways, eco-evolutionary dynamics is a natural outcome of the line of evolutionary
+research initiated in the 1980s and 1990s aimed at measuring rates of evolution in the wild.
+Experimental systems such as the guppy, Poecilia reticulata (Endler 1980, Reznick et al. 1997),
+and the English plantain, Plantago lanceolata (Hickey and McNelly 1975), showed that
+evolution can occur so quickly as to be noticeable on ecological timescales. Scientists studying
+this phenomenon suggested that such rapid evolution may have quick and dramatic consequences
+on the environment. Work on rapid evolution has led to high profile projects currently ongoing
+that are attempting to document interactions and feedbacks between evolution and ecological
+change, such as the Guppy Project (a multi-million dollar project funded by the US National
+Science Foundation’s Foundations in Integrative Biological Research program, and headed by Dr.
+David Reznick, University of California at Riverside), the Lake Constance Daphnia Project
+(collaboration between Cornell University and the Max Planck Institute for Evolutionary
+Biology, particularly involving Dr. Nelson Hairston Jr.), and the Eco- and Socio-Evolutionary
+Dynamics Research Network at Katholieke Universiteit Leuven (Belgium). This topic has been
+the subject of recent high-profile synthetic reviews and opinion papers (e.g., Schoener 2011 The
+newest synthesis: understanding the interplay of evolutionary and ecological dynamics Science
+331:426-429; Pelletier et al 2009 Eco-evolutionary dynamics Proc Royal Soc B 364:1483-1489),
+as well as special issues in some of the most influential journals in ecology (e.g., Proc Roy Soc B,
+vol. 364 issue 1523). In virtually all case studies, one consistent refrain comes through: although
+the environment clearly plays a large role in determining the evolutionary trajectories of wild
+populations, evolution also clearly impacts the environment in profound but poorly understood
+ways. Eco-evolutionary dynamics makes a goal of creating a contemporary synthesis of ecology
+and evolution that can make these impacts predictable. But one more theme is consistent in all of
+the studies noted above: the use of mostly animals as the model organisms to create and test the
+theory of eco-evolutionary dynamics. We propose a special issue that will fill this gap by fitting
+plants within eco-evolutionary dynamics, and showing how their unique traits alter the
+developing theory.
+We envision a special issue covering the following topics: 1.	Phenotypic plasticity and genetic mosaicism, and their influence on eco-evolutionary
+dynamics 2.	Commonalities and differences in eco-evolutionary mechanisms between plants and
+animals 3.	Complex plant life histories and eco-evolutionary population dynamics 4.	Soil-microbial and plant-fungal eco-evolutionary dynamics 5.	Eco-evolutionary feedbacks within and beyond plant communities 6.	Ecosystem level eco-evolutionary feedbacks mediated via plants and soil microbes
+This special issue is timely and will be of great interest to the readership of Journal of Ecology, first because plant evolution in response to the environment involves a much stronger influence from size-based phenotypic plasticity and genetic mosaicism than evolution in the so far studied animal species; we believe that much of the current eco-evo literature does not adequately address the potential for these two phenomena to mask or “mimic” evolutionary change. Second, most of the eco-evolutionary literature purports to be general and to have no bias toward any group of organisms, yet it is overwhelmingly based on studies of short-lived animals (e.g., Daphnia and Poecilia). This special issue will provide us with the opportunity to address these shortcomings in the research and showcase the kinds of research that plant ecologists and evolutionary biologists now must do to understand eco-evolutionary feedbacks across the Tree of Life. To that end, we have gathered confirmations on intention to contribute to our proposed special feature by the leaders in the field, including Dr. Ruth Shaw, Dr. Jessica Metcalf, Dr. Deborah Roach, Dr. Douglas Morris, Dr. Yvonne Buckley, Dr. Jennifer Williams, Dr. Thomas Whitham, and Dr. Thomas Miller (see Proposed Contributions, below).
+Please do not hesitate to contact us with questions. We await your response. Sincerely,
+Richard Shefferson* & Roberto Salguero-Gómez *Main contact, University of Georgia, Odum School of Ecology (dormancy@gmail.com)
+Citations: Darwin, C. 1859. The origin of species by means of natural selection. John Murray, London,
+United Kingdom. Endler, J. A. 1980. Natural selection on color patterns in Poecilia reticulata. Evolution 34:76-91. Fisher, R. A. 1930. The genetical theory of natural selection. Dover, New York, New York, USA. Hickey, D. A., and T. McNelly. 1975. Competition between metal tolerant and normal plant
+populations; a field experiment on normal soil. Evolution 29:458-464. Lewontin, R. 2002. The triple helix: gene, organism, and environment. Harvard, Massachusetts,
+Harvard University Press. Pelletier, F., D. Garant, and A. P. Hendry. 2009. Eco-evolutionary dynamics. Philosophical
+Transactions of the Royal Society B: Biological Sciences 364:1483-1489. Pimentel, D. 1961. Animal population regulation by the genetic feed-back mechanism. The
+American Naturalist 95:65-79. Pimentel, D. 1968. Population regulation and genetic feedback. Science 159:1432-1437. Reznick, D. N., F. H. Shaw, F. H. Rodd, and R. G. Shaw. 1997. Evaluation of the rate of
+evolution in natural populations of guppies (Poecilia reticulata). Science 275:1934-1937.
+Proposed Contributions (in addition to an editorial piece): 1.	Title: Eco-evolutionary dynamics of novel communities: breaking apart and re-assembling
+species interactions Author: Yvonne Buckley Summary:
+2.	Title: Inbreeding in Echinacea angustifolia affects traits that mediate herbivory Author: Ruth Shaw and Stuart Wagenius Summary:
+3.	Title: Genetically coupled communities: does plant genotype link diverse fungal communities?
+Author: Thomas G. Whitham Summary:
+4.	Title: Eco-evolutionary games played by plants and animals: are they different? Authors: Douglas W. Morris, Per Lundberg, and Joel S. Brown Summary: We will use concepts of adaptive landscapes, and Vincent and Brown’s invention of G-functions, to explore similarities and differences in density- and frequency- dependent evolutionary strategies common to plants and animals. We are particularly interested in evaluating differences in such strategies as dispersal and migration, diapause, growth, modular structure, centrally planned organization, reproduction, state-dependent
+The shrub Cytisus scoparius has been introduced to many locations outside its
+native range, initially without a suite of specialist herbivores present in the native range.
+We have previously demonstrated substantially increased seed size in non-native
+populations (Buckley et al. 2003, Ecology). Seed size has strong effects on seedling
+performance (data would be presented in this MS) and also on the performance of
+specialist seed feeding insects (Paynter et al. in prep.). We use a coupled plant-herbivore
+model to demonstrate the effects of disassembly and reassembly of species interactions on
+the evolution of seed size. The eco-evolutionary dynamics of novel communities has
+important implications for biological control, restoration and community disassembly and
+reassembly due to climate change.
+Populations become more inbred with habitat fragmentation, resulting in change
+in traits of organisms. Because plants are at the base of foodwebs, changes in their traits
+may have effects that ramify throughout the communities they inhabit. In a prairie
+restoration, with purple coneflower plants derived from experimental genetic crosses to
+manipulate inbreeding, we have investigated phenological, physiological and fitness traits
+important in ecological interactions with herbivores. Our paper will synthesize these
+findings to characterize the role of plant inbreeding in traits that modulate interactions
+between plants and their herbivores.
+A central aim of community genetics is to determine how plant genotype
+influences dependent species, whole communities and ecosystem processes. Studies have
+shown that plant genotype can significantly affect or define different community types
+(e.g., soil microbial decomposers, mycorrhizae, endophytes, pathogens, arthropods), but no
+study has examined how these diverse communities might be associated with one another
+and how such correlated communities could feed back to their individual plants to affect
+evolution in a community context. Here we use long-term common garden studies of the
+diverse fungal communities supported by different plant genotypes to explore the
+ecological and evolutionary implications of these community associations.
+demography, sexual reproduction, and sexual selection. Our goal is to determine whether plants and animals, and their interactions, can be understood through common models, or whether some strategies, unique to plants, require novel solutions. Regardless of the answer, we will aim for a contribution illustrating a range of evolutionary games that improve our collective insights into the consequences and implications of density and frequency dependent evolution.
+5.	Title: Timing of germination in the context of early life density dependence: phenology at the intersection of ecology and evolution Author: C. Jessica Metcalf Summary:
+6.	Title: Life history evolution under climate change and its influence on the population dynamics of a long-lived plant Authors: Jennifer L. Williams, Thomas E.X. Miller, Rein Brys, and Hans Jacquemyn Summary:
+7.	Title: Longitudinal analysis in Plantago: the impacts of genetic variation in vital rates and natural selection on population dynamics Authors: Richard P. Shefferson and Deborah A. Roach Summary: Natural selection is known to impact population dynamics by continually maximizing fitness, even as the environment varies. Though the potentially profound impacts of natural selection on population dynamics are acknowledged, they have rarely been quantified and are usually assumed not to cause significant deviations from long-term projected dynamics in deterministic and stochastic models. This is likely to be due to the nature of most demographic data collected in the wild, which typically does not include genotypic values of vital rates. We use a long-term experimental study on Plantago
+Across a range of organisms, specific levels of seasonal cues such as day length
+or temperature can trigger life-history transitions. This acts to regulate the life cycle
+relative to seasonal fluctuations, so that for example reproduction occurs when resources
+are most abundant. However, temporal synchronization of life stages due to identical
+responses to particular seasonal cues will increase population density. If density
+dependence is operating, individual fitness will be reduced, and selection will then favor
+transition at a cue level that differs from the environmentally optimal cue level. We explore
+the evolutionary dynamics that could result using the example of germination
+in Arabidopsis thaliana. The genotype to phenotype map of germination timing is
+relatively well defined for this species; and we discuss our results in the context of the
+diverse distribution of response to long-days found across Europe; and finally outline the
+generality of our results across a range of life-histories.
+Our paper explores the evolution of delayed reproduction and its influence on
+population dynamics in a long-lived plant (Orchis purpurea) under climate change. We use
+long-term demographic data to parameterize a climate-dependent, stochastic integral
+projection model. We identify evolutionarily stable strategies for the size at reproduction,
+given trade-offs between the benefits of early reproduction and its demographic cost
+(reduced growth). We show how realistic scenarios for future climate change will change
+selection on reproductive strategies. Finally, we explore the eco-evolutionary dynamics of
+life history adaptation, asking whether rapid evolution can modify the influence of climate
+change on plant population dynamics.
+lanceolata to show the impacts of natural selection on population dynamics when genotypes vary in vital rates, and selection is imposed via competition. We then suggest the possible consequences of genetic variation in vital rates and different modes of natural selection in plants and animals.
